@@ -10,11 +10,15 @@ D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\bin\Debug\netcoreapp3.1\Metrics_Me
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.csprojAssemblyReference.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.AssemblyInfoInputs.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.AssemblyInfo.cs
-D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.csproj.CoreCompileInputs.cache
-D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.MvcApplicationPartsAssemblyInfo.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.RazorTargetAssemblyInfo.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\staticwebassets\Metrics_Menager.StaticWebAssets.Manifest.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\staticwebassets\Metrics_Menager.StaticWebAssets.xml
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.dll
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.pdb
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.genruntimeconfig.cache
+D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\bin\Debug\netcoreapp3.1\NLog.dll
+D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.csproj.CopyComplete
+D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.csproj.CoreCompileInputs.cache
+D:\GeekBrains\ASP.NET\Metrics\Metrics_Menager\obj\Debug\netcoreapp3.1\Metrics_Menager.MvcApplicationPartsAssemblyInfo.cache

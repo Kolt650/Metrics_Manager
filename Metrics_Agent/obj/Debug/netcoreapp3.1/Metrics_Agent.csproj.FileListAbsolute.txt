@@ -10,8 +10,6 @@ D:\GeekBrains\ASP.NET\Metrics\Metrics_Agent\bin\Debug\netcoreapp3.1\Metrics_Agen
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Agent\obj\Debug\netcoreapp3.1\Metrics_Agent.csprojAssemblyReference.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Agent\obj\Debug\netcoreapp3.1\Metrics_Agent.AssemblyInfoInputs.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Agent\obj\Debug\netcoreapp3.1\Metrics_Agent.AssemblyInfo.cs
-D:\GeekBrains\ASP.NET\Metrics\Metrics_Agent\obj\Debug\netcoreapp3.1\Metrics_Agent.csproj.CoreCompileInputs.cache
-D:\GeekBrains\ASP.NET\Metrics\Metrics_Agent\obj\Debug\netcoreapp3.1\Metrics_Agent.MvcApplicationPartsAssemblyInfo.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Agent\obj\Debug\netcoreapp3.1\Metrics_Agent.RazorTargetAssemblyInfo.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Agent\obj\Debug\netcoreapp3.1\staticwebassets\Metrics_Agent.StaticWebAssets.Manifest.cache
 D:\GeekBrains\ASP.NET\Metrics\Metrics_Agent\obj\Debug\netcoreapp3.1\staticwebassets\Metrics_Agent.StaticWebAssets.xml

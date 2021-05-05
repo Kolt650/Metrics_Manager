@@ -100,3 +100,4 @@ D:\GeekBrains\ASP.NET\Metrics\MetricsManagerTests\obj\Debug\netcoreapp3.1\Metric
 D:\GeekBrains\ASP.NET\Metrics\MetricsManagerTests\obj\Debug\netcoreapp3.1\MetricsManagerTests.dll
 D:\GeekBrains\ASP.NET\Metrics\MetricsManagerTests\obj\Debug\netcoreapp3.1\MetricsManagerTests.pdb
 D:\GeekBrains\ASP.NET\Metrics\MetricsManagerTests\obj\Debug\netcoreapp3.1\MetricsManagerTests.genruntimeconfig.cache
+D:\GeekBrains\ASP.NET\Metrics\MetricsManagerTests\bin\Debug\netcoreapp3.1\NLog.dll
