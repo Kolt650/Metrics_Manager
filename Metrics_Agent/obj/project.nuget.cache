@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdFokkgPBbLH+4Q26AE29FzI/rq1WGakQicNrZHQA/YAeXvoHYe3e0S1vV/Pyv+JBZRbe6lYEZrCAsXTkyHdww==",
+  "success": true,
+  "projectFilePath": "D:\\GeekBrains\\ASP.NET\\Metrics\\Metrics_Agent\\Metrics_Agent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilyak\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.2\\stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "C:\\Users\\ilyak\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}
